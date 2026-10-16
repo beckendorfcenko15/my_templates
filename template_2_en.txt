@@ -9,7 +9,7 @@
 {{auto_text_5}}
 
 {{auto_text_6}}
-<a href="{{form_url}}">{{CTA_BUTTON_SHEET_NAME}} </a>
+{{CTA_BUTTON_SHEET_NAME}}
 
 {{auto_text_7}}
 
