@@ -1,7 +1,6 @@
 {{auto_text_10}}
 
 {{auto_text_1}}
-
 {{auto_text_2}}
 
 {{auto_text_3}}
@@ -9,9 +8,7 @@
 {{auto_text_5}}
 
 {{auto_text_6}}
-
 {{auto_text_7}}
-
 {{auto_text_8}}
 {{SENDER}}
 {{TEST_PARAM}}
