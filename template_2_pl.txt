@@ -7,7 +7,6 @@
 {{auto_text_5}}
 
 {{auto_text_6}}
-{{form_url}}
 
 {{auto_text_7}}
 
